@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ToDoList",
-    "slug": "ToDoList",
+    "name": "ExerciseAppReactNative",
+    "slug": "ExerciseAppReactNative",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
